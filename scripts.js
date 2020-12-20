@@ -27,8 +27,6 @@
     ctx.fillRect(x, y, w, h);
   };
 
-  console.log(logo);
-
   const coordsRect = (item, logoCenter) => {
     const {
       offset,
